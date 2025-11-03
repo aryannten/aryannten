@@ -1,10 +1,9 @@
 <h1 align="center">Hey there, I'm Aryan</h1>
+
+📫 How to reach me **aryannyadav09@gmail.com**
+
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aryannten&label=Profile%20views&color=0e75b6&style=flat" alt="aryannten" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aryannten&theme=" alt="aryannten" /></a> </p>
-
-
-- 📫 How to reach me **aryannyadav09@gmail.com**
 
 <div> <a href="https://www.linkedin.com/in/Aryan Yadav" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 <a href="https://github.com/aryannten" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
@@ -49,6 +48,4 @@
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=aryannten&theme=rose_pine" height="180em" />
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=aryannten&theme=2077" height="180em" />
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=aryannten&theme=rose_pine" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=aryannten&theme=2077" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aryannten&theme=2077" height="180em" />
-</div>
+
