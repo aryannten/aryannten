@@ -21,3 +21,11 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aryannten&show_icons=true&locale=en" alt="aryannten" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aryannten&" alt="aryannten" /></p>
+
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+
+###
