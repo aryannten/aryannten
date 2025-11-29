@@ -18,14 +18,9 @@ Aspiring Engineer | Python & Web Dev Enthusiast | AI/ML Enthusiast, Passionate a
 ---
 [![](https://visitcount.itsvg.in/api?id=aryannten&icon=1&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aryannten&" alt="aryannten" /></p>
-
 ###
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
 
 ###
