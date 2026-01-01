@@ -1,5 +1,5 @@
 # 💫 About Me:
-Aspiring Engineer | Python & Web Dev Enthusiast | AI/ML Enthusiast, Passionate about crafting intelligent, efficient, and creative solutions. Pursuing B.E. in Engineering, exploring new libraries, AI and Machine Learning. On a mission to blend AI, Code, and Imagination into real-world innovation.
+Aspiring Engineer | Python & Web Dev Enthusiast | AI/ML Enthusiast, Passionate about crafting intelligent, efficient, and creative solutions. Pursuing B.E. in Computer Engineering, exploring new libraries, AI and Machine Learning. On a mission to blend AI, Code, and Imagination into real-world innovation.
 
 
 ## 🌐 Socials:
