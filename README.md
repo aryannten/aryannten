@@ -22,7 +22,9 @@ Aspiring Engineer | Python & Web Dev Enthusiast | AI/ML Enthusiast, Passionate a
 
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
 ![Flask](https://img.shields.io/badge/flask-%23000000.svg?style=for-the-badge&logo=flask&logoColor=white)
-![FastAPI](https://img.shields.io/badge/fastapi-%23009688.svg?style=for-the-badge&logo=fastapi&logoColor=white)
+![FastAPI](https://img.shields.io/badge/fastapi-%23009688.svg?style=for-the-badge&logo=fastapi&logoColor=white) 
+
+> Continuously expanding my skill set across AI, ML, and backend technologies.
 
 
 # 📊 GitHub Stats:
