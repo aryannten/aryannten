@@ -98,22 +98,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aryannten&theme=radical&hide_border=true&layout=compact&langs_count=8" height="180"/>
-
-</div>
-
-<div align="center">
-
-<img src="https://nirzak-streak-stats.vercel.app/?user=aryannten&theme=radical&hide_border=true" height="180"/>
-
-</div>
-
----
 
 ## 📈 Contribution Graph
 
